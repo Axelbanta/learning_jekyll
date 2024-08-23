@@ -22,7 +22,7 @@ title: Great web agency
 email: lhsttlu1l@mozmail.com
 description: "Great web agency is your trusted partner for professional web design and development. We specialize in creating modern, responsive websites tailored to elevate your brand and drive results. Let’s bring your vision to life with innovative design and seamless functionality."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://axelbanta.github.io/learning_jekyll/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
